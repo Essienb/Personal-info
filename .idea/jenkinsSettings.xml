@@ -2,6 +2,6 @@
 <project version="4">
   <component name="Jenkins.Application.Settings">
     <option name="doubleClickAction" value="LOAD_BUILDS" />
-    <option name="serverUrl" value="http://localhost:8085/job/JenkinstestProject/" />
+    <option name="serverUrl" value="http://localhost:8085" />
   </component>
 </project>
